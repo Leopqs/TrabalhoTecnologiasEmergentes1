@@ -1,0 +1,6 @@
+{
+  "name": "Portal do Professor - Gestão Acadêmica",
+  "description": "Ambiente completo para professores realizarem chamada, lançar notas, avaliar turmas com IA, enviar notificações, cadastrar disponibilidade semanal, gerenciar materiais de aula, horários e calendário acadêmico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
