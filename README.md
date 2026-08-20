@@ -17,7 +17,7 @@
   <img width="600" height="600" alt="Prompt1Resposta" src="https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Resposta.jpeg" />
 
 
-  Quantidade de tokens de entrada e saída gastas e seu custo: [CUSTOS_GEMINI](https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/CUSTOS_GEMINI.md
+  Quantidade de tokens de entrada e saída gastas e seu custo: [CUSTOS_GEMINI](https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/CUSTOS_GEMINI.md)
 
 
   link de publicação do projeto: https://portalprofessor06082005.ai.studio
