@@ -9,7 +9,7 @@
 
   prompt simples enviado
 
-  <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Enviado.jpeg" />
+  <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Enviado.jpg" />
 
 
   resposta do prompt simples
