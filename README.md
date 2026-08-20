@@ -6,11 +6,15 @@ https://portalprofessor06082005.ai.studio
 
   prompt simples enviado
 
-  [Prompt1Enviado.jpeg](https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Enviado.jpeg)
+  <div align="center">
+<img width="475" height="475" alt="Prompt1Enviado" src="https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Enviado.jpeg" />
+</div>
 
   resposta do prompt simples
 
-  [https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Resposta.jpeg]
+  <div align="center">
+<img width="475" height="475" alt="Prompt1Resposta" src="https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Resposta.jpeg" />
+</div>
 
   
 # Run and deploy your AI Studio app
