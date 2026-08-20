@@ -1,9 +1,18 @@
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
-
+  
 https://portalprofessor06082005.ai.studio
 
+  prompt simples enviado
+
+  [Prompt1Enviado.jpeg]
+
+  resposta do prompt simples
+
+  [Prompt1Resposta.jpeg]
+
+  
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
